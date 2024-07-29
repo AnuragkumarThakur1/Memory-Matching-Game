@@ -1,3 +1,6 @@
+https://anuragkumarthakur1.github.io/Memory-Matching-Game/
+
+
 # Memory Matching Game
 
 Welcome to the **Memory Matching Game**! This is a simple yet engaging game where players must flip and match pairs of cards to win.
@@ -27,7 +30,7 @@ To play the Memory Matching Game locally:
 
 1. Clone the repository:
    ```bash
-  -------------------------------------------------------------------------
+  https://anuragkumarthakur1.github.io/Memory-Matching-Game/
    ```
 2. Navigate to the project directory:
    ```bash
