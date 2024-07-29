@@ -29,8 +29,7 @@ Welcome to the **Memory Matching Game**! This is a simple yet engaging game wher
 To play the Memory Matching Game locally:
 
 1. Clone the repository:
-   ```bash
-  https://anuragkumarthakur1.github.io/Memory-Matching-Game/
+   ```bash https://anuragkumarthakur1.github.io/Memory-Matching-Game/
    ```
 2. Navigate to the project directory:
    ```bash
